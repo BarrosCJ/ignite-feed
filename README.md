@@ -1,2 +1,2 @@
 # ignite-feed
-Projeto de aluguel de carro desenvolvido em React.JS para aprimoramento dos conhecimentos.
+Projeto de criação de um layout de uma rede social, desenvolvido em React.JS para aprimoramento dos conhecimentos.
